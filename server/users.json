@@ -1,0 +1,29 @@
+{
+  "user1": {
+    "id":1,
+    "firstname":"Joe",
+    "lastname":"Swanson",
+    "email":"SwanJ@gmail.com"
+  },
+
+  "user2":  {
+    "id":2,
+    "firstname":"Billy",
+    "lastname":"Idol",
+    "email":"coolguy24@gmail.com"
+  },
+
+  "user3":  {
+    "id":3,
+    "firstname":"Peter",
+    "lastname":"Griffin",
+    "email":"PGriffin@gmail.com"
+  },
+
+  "user4": {
+    "id":4,
+    "firstname":"Jerry",
+    "lastname":"Seinfeld",
+    "email":"nosoup@gmail.com"
+  }
+}
